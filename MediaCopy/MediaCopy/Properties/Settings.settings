@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MediaCopy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FromDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01/01/2011</Value>
+    </Setting>
+    <Setting Name="ToDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PictureExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jpg bmp tif tiff</Value>
+    </Setting>
+    <Setting Name="VidioExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mp4 mov avi fli mod moi</Value>
+    </Setting>
+    <Setting Name="DestinationFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\VideoFootage\2010</Value>
+    </Setting>
+    <Setting Name="NameMapping" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yyyyMMdd_HH-mm-ss</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

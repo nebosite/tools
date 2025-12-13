@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MediaCopy">
+</Property><Property Name="Solution File" Value="D:\Documents\dev\MyProjects\MediaCopy\MediaCopy.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\dev\MyProjects\MediaCopy\MediaCopy.suo">
+</Property><Property Name="Date" Value="Friday, June 01, 2012">
+</Property><Property Name="Time" Value="17:52 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MediaCopy.sln" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MediaCopy.suo" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy.suo">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MediaCopy.csproj" Description="Project file successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\MediaCopy.csproj">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\FolderInfo.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\FolderInfo.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MainForm.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MainForm.Designer.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MediaCopier.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\MediaCopier.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Program.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Program.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\app.config" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\app.config">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Properties\Settings.settings" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MainForm.resx" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\Properties\Resources.resx" Description="File successfully backed up as D:\Documents\dev\MyProjects\MediaCopy\Backup\MediaCopy\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MediaCopy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MediaCopy" Source="MediaCopy\MediaCopy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MediaCopy.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MediaCopy.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MediaCopy" Source="MediaCopy\MediaCopy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
