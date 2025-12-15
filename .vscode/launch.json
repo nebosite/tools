@@ -13,6 +13,16 @@
             ],
             "program": "${workspaceFolder}\\Scripts\\FixPicNames.js",
             "cwd": "F:\\Documents\\OurPictures\\download\\_RENAMES"
+        },
+          {
+            "type": "node",
+            "request": "launch",
+            "name": "FixVideoDates",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Scripts\\FixVideoDates.js",
+            "cwd": "F:\\RawVideo\\2025\\BadDate"
         }
     ]
 }
