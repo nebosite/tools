@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\Scripts\\FixPicNames.js",
-            "cwd": "F:\\Documents\\OurPictures\\download"
+            "cwd": "F:\\Documents\\OurPictures\\download\\_RENAMES"
         }
     ]
 }
